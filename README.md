@@ -7,6 +7,4 @@ The scripts are in the Jupyter notebook.
 
 The mentioned paper in the report has been also uploaded. 
 
-In zipped folder the trained models and the history of their training are included.
-
 The presentation in pdf format has been also uploaded.
